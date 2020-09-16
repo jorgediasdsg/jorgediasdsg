@@ -10,7 +10,7 @@
 
 - :seedling: I’m currently learning **Node.js, React, React-Native, Typescript** and much more.
 
-- 💬 Ask me about **Shellscript, Linux, CentOS, Deploy, Docker and Chess =)**
+- 💬 Ask me about **Shellscript, Linux, CentOS, Deploy, Docker, Network, Mikrotik and Chess =)**
 
 - 📫 How to reach me **jorgediascpd@gmail.com**
 
