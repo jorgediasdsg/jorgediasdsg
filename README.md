@@ -6,6 +6,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jorgediasdsg](https://github.com/jorgediasdsg)
 
+- rocket I am a student on **GoStack Bootcamp** from **Rocketseat**.
+
+- seedling I’m currently learning **Node.js, React, React-Native, Typescript** and much more.
+
 - 💬 Ask me about **Shellscript, Linux, CentOS, Chess =)**
 
 - 📫 How to reach me **jorgediascpd@gmail.com**
