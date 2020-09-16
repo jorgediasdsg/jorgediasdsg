@@ -14,6 +14,7 @@
 
 - 📫 How to reach me **jorgediascpd@gmail.com**
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jorgediasdsg&show_icons=true" alt="jorgediasdsg" /> </p>
 
 <p align="center">
 <a href="https://twitter.com/jorgediasdsg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jorgediasdsg" height="20" width="20" /></a>
