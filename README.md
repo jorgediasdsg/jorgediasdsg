@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Shellscript, Linux, CentOS, Deploy, Docker, Network, Mikrotik and Chess =)**
 
-- 📫 How to reach me **jorgediascpd@gmail.com**
+- 📫 How to reach me **jorgediasdsg@gmail.com**
 
 <p align="left">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="20" height="20"/> 
