@@ -1,42 +1,69 @@
-<h1 align="center">Hi 👋, I'm Jorge Dias</h1>
-<h3 align="center">A passionate infrastructure technician from Brazil.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgediasdsg" alt="jorgediasdsg" /> </p>
-
-- 🔭 I’m currently working on [technician at CBMSC](https://portal.cbm.sc.gov.br)
-
-- 👨‍💻 All of my projects are available at [https://github.com/jorgediasdsg](https://github.com/jorgediasdsg)
-
-- :rocket: I am a student on **GoStack Bootcamp** from **Rocketseat**.
-
-- :seedling: I’m currently learning **Node.js, React, React-Native, Typescript** and much more.
-
-- 💬 Ask me about **Shellscript, Linux, CentOS, Deploy, Docker, Network, Mikrotik and Chess =)**
-
-- 📫 How to reach me **jorgediasdsg@gmail.com**
-
-<p align="left">
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="20" height="20"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="20" height="20"/> 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="docker" width="20" height="20"/> 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html5" width="20" height="20"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="20" height="20"/> 
-<img src="https://duncanleung.com/static/1890d08d372e93441aa7aef3aa4c8464/92ab1/typescript.png" alt="typescript" width="20" height="20"/> 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="mysql" width="20" height="20"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" alt="php" width="20" height="20"/> 
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" alt="postgresql" width="20" height="20"/> 
-<img src="https://www.martincap.io/images/icons/devicon/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png" alt="python" width="20" height="20"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/299px-Tux.svg.png" alt="linux" width="20" height="20"/>
-<img src="https://wiki.centos.org/ArtWork/Brand/Logo?action=AttachFile&do=get&target=centos-symbol.svg" alt="centos" width="20" height="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Red_Fedora.svg" alt="centos" width="20" height="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1200px-Fedora_logo.svg.png" alt="Fedora" width="20" height="20"/>
-<img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" alt="Ubuntu" width="20" height="20"/>
-</p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jorgediasdsg&show_icons=true" alt="jorgediasdsg" /> </p>
+<h1 align="center">👋 Hi, I'm Jorge Dias</h1>
+<h3 align="center">Software Developer, Infrastructure Specialist & Innovation Enthusiast from Brazil 🇧🇷</h3>
 
 <p align="center">
-<a href="https://twitter.com/jorgediasdsg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jorgediasdsg" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/jorgediasdsg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jorgediasdsg" height="20" width="20" /></a>
-<a href="https://www.youtube.com/c/jorgediasdsg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jorgediasdsg" height="20" width="20" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jorgediasdsg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+### 🎓 Education  
+- 🎓 **Bachelor’s in Computer Networks**  
+- 🎓 **Bachelor’s in Information Systems**  
+- 🎓 **Postgraduate in Software Architecture and Solutions**  
+
+---
+
+### 🚀 About Me  
+- 🔭 Currently working at **MPSC (Ministério Público de Santa Catarina)**  
+  - 2 years of experience at **CyberGAECO**  
+  - Now part of the **State Coordination of GAECO – Innovation & Technology Team**  
+- 👨‍💻 Building applications with **Low-Code** platforms  
+- 🔄 Automating workflows with **n8n** and **Power Automate**, integrating and correlating massive datasets  
+- 📊 Delivering insights through **Qlik Sense, Power BI, and Looker Studio**  
+- 🌱 Currently learning **Go (Golang)** while deepening knowledge in **Node.js, React, React Native, and TypeScript**  
+- 💬 Ask me about **Linux, Shellscript, Deploy, Docker, Networking, Mikrotik, and Chess ♟️**  
+- 📫 Reach me at **jorgediasdsg@gmail.com**
+
+---
+
+### 🛠️ Tech Stack  
+<p align="left">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="React" width="25" height="25"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="Docker" width="25" height="25"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="25" height="25"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="HTML5" width="25" height="25"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="25" height="25"/> 
+  <img src="https://duncanleung.com/static/1890d08d372e93441aa7aef3aa4c8464/92ab1/typescript.png" alt="TypeScript" width="25" height="25"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" width="25" height="25"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="25" height="25"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png" alt="PostgreSQL" width="25" height="25"/> 
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="25" height="25"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="25" height="25"/> 
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go" width="35" height="20"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="25" height="25"/> 
+  <img src="https://wiki.centos.org/ArtWork/Brand/Logo?action=AttachFile&do=get&target=centos-symbol.svg" alt="CentOS" width="25" height="25"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Red_Fedora.svg" alt="Red Hat" width="25" height="25"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora" width="25" height="25"/> 
+  <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" alt="Ubuntu" width="25" height="25"/> 
+  <img src="https://avatars.githubusercontent.com/u/45487702?s=280&v=4" alt="n8n" width="25" height="25"/> 
+  <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="25" height="25"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" alt="Looker Studio" width="25" height="25"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/qlik-1.svg" alt="Qlik Sense" width="25" height="25"/> 
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgediasdsg&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://twitter.com/jorgediasdsg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="25" width="25" /></a>
+  <a href="https://linkedin.com/in/jorgediasdsg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="25" width="25" /></a>
+  <a href="https://www.youtube.com/c/jorgediasdsg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="25" width="25" /></a>
 </p>
