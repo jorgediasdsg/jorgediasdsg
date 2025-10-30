@@ -59,14 +59,14 @@
 #### 1️⃣ [Processador de Dados — 1B Linhas](https://github.com/jorgediasdsg/GO)
 - **EN** — High-performance data processor in Go, capable of handling datasets with up to **1 billion lines** efficiently.  
 - **PT-BR** — Processador de dados em Go, capaz de manipular datasets de até **1 bilhão de linhas** com eficiência e paralelismo.  
-- 🔗 [Acessar README completo][(https://github.com/jorgediasdsg/GO/blob/main/1brc-challenge/README.md)
+- 🔗 [Acessar README completo](https://github.com/jorgediasdsg/GO/blob/main/1brc-challenge/README.md)
 
 ---
 
 #### 2️⃣ [URL Shortener — Encurtador de Link](https://github.com/jorgediasdsg/GO/blob/main/shortener)
 - **EN** — REST API in Go to shorten and redirect URLs. In-memory storage, great for practicing HTTP, routing, and handlers.  
 - **PT-BR** — API REST em Go para encurtar e redirecionar URLs. Armazenamento em memória, ideal para praticar HTTP, roteamento e handlers.  
-- 🔗 [Acessar README completo]([./shortener](https://github.com/jorgediasdsg/GO/blob/main/shortener/README.md)
+- 🔗 [Acessar README completo](https://github.com/jorgediasdsg/GO/blob/main/shortener/README.md)
 
 ---
 
