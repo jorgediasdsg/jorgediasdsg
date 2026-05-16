@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Jorge Dias</h1>
-<h3 align="center">Software Engineer (Backend) | Go • Node.js • DevOps • Automation</h3>
+<h3 align="center">Software Engineer | Backend • DevOps • Automation • Go • Node.js</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jorgediasdsg&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -7,28 +7,32 @@
 
 ---
 
-### 🎓 Education  
-- 🎓 **Bachelor’s in Computer Networks**  
-- 🎓 **Bachelor’s in Information Systems**  
-- 🎓 **Postgraduate in Software Architecture and Solutions**  
+### Sobre mim
+
+Sou engenheiro de software com foco em backend, automação e infraestrutura.
+
+Gosto de construir sistemas simples de operar, fáceis de revisar e preparados para crescer sem virar bagunça.
+
+Hoje meu foco técnico está em:
+
+- Backend com **Go** e **Node.js**
+- Automação de processos e integrações
+- DevOps, CI/CD e infraestrutura como código
+- Kubernetes, Docker, Ansible e Terraform
+- APIs, microsserviços e sistemas orientados a operação real
 
 ---
 
-### 🚀 About Me  
-- 🔭 Currently working at **MPSC (Ministério Público de Santa Catarina)**  
-  - 2 years of experience at **CyberGAECO**  
-  - Now part of the **State Coordination of GAECO – Innovation & Technology Team**  
-- 🧠 Strong background in **architecture, backend, and automation**, supporting high-impact investigations  
-- 👨‍💻 Building applications with **Node.js, Go, and Low-Code tools**  
-- 🔄 Automating workflows with **n8n** and **Power Automate**, integrating massive datasets securely  
-- 📊 Delivering insights through **Power BI, Qlik Sense, and Looker Studio**  
-- 🌱 Currently deepening knowledge in **Go (Rocketseat)** and **DevOps (Docker, CI/CD, Observability)**  
-- 💬 Ask me about **Linux, Shellscript, Docker, Ansible, Networking, and Automation**  
-- 📫 Reach me at **jorgediasdsg@gmail.com**
+### Formação
+
+- Bacharelado em Redes de Computadores
+- Bacharelado em Sistemas de Informação
+- Pós-graduação em Arquitetura de Software e Soluções
 
 ---
 
-### 🛠️ Tech Stack  
+### Tech stack
+
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/> 
@@ -38,68 +42,52 @@
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ci_icon_130587.png" alt="CI/CD" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="30" height="30"/> 
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/n8n_logo_icon_171159.png" alt="n8n" width="30" height="30"/> 
-  <img src="https://img.icons8.com/color/512/power-bi.png" alt="Power BI" width="30" height="30"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" alt="Looker Studio" width="30" height="30"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/qlik-1.svg" alt="Qlik Sense" width="30" height="30"/> 
 </p>
 
 ---
 
-<h1 align="center">⚡ Projetos em Go — Estudo e Desempenho ⚡</h1>
+### Projetos em destaque
 
-<p align="center">
-  <em>:us: Three Go study projects — focused on high-performance data processing, API design, and RESTful practices.</em><br>
-  <em>:brazil: Três projetos de estudo em Go — com foco em performance, design de APIs e boas práticas REST.</em>
-</p>
+#### [poc-gke-lab](https://github.com/jorgediasdsg/poc-gke-lab)
+Laboratório DevOps para validar uma migração simulada de Cloud Run para GKE, usando Kubernetes local, GitOps, CI/CD e infraestrutura como código.
 
----
+Stack principal: Terraform, Helm, FastAPI, PostgreSQL, React, Argo CD, GitHub Actions, Kong Ingress Controller e kind.
 
-### 📁 Projetos
+#### [fedora-bootstrap-ansible](https://github.com/jorgediasdsg/fedora-bootstrap-ansible)
+Automação com Ansible para preparar ambiente Fedora de desenvolvimento de forma reproduzível.
 
-#### 1️⃣ [Processador de Dados — 1B Linhas](https://github.com/jorgediasdsg/GO)
-- **EN** — High-performance data processor in Go, capable of handling datasets with up to **1 billion lines** efficiently.  
-- **PT-BR** — Processador de dados em Go, capaz de manipular datasets de até **1 bilhão de linhas** com eficiência e paralelismo.  
-- 🔗 [Acessar README completo](https://github.com/jorgediasdsg/GO/blob/main/1brc-challenge/README.md)
+#### [pdf-expert](https://github.com/jorgediasdsg/pdf-expert)
+Serviço em Go para análise de arquivos PDF, criado para praticar evolução real de backend, organização de código e processamento de arquivos.
 
----
-
-#### 2️⃣ [URL Shortener — Encurtador de Link](https://github.com/jorgediasdsg/GO/blob/main/shortener)
-- **EN** — REST API in Go to shorten and redirect URLs. In-memory storage, great for practicing HTTP, routing, and handlers.  
-- **PT-BR** — API REST em Go para encurtar e redirecionar URLs. Armazenamento em memória, ideal para praticar HTTP, roteamento e handlers.  
-- 🔗 [Acessar README completo](https://github.com/jorgediasdsg/GO/blob/main/shortener/README.md)
+#### [vistoria](https://github.com/jorgediasdsg/vistoria)
+Aplicação para ficha de vistoria veicular.
 
 ---
 
-#### 3️⃣ [Challenger — API de Registros](https://github.com/jorgediasdsg/GO/blob/main/challenger)
-- **EN** — Simple REST API in Go for registering, querying, updating, and deleting records in memory.  
-- **PT-BR** — API REST em Go para cadastrar, consultar, modificar e deletar registros em memória, praticando métodos HTTP (GET, POST, PUT, DELETE).  
-- 🔗 [Acessar README completo](https://github.com/jorgediasdsg/GO/blob/main/challenger/README.md)
+### O que me interessa construir
+
+- Ferramentas internas que economizam tempo de operação
+- APIs bem desenhadas e fáceis de manter
+- Automações que reduzem trabalho manual
+- Ambientes DevOps reproduzíveis
+- Sistemas que aproximam produto, operação e infraestrutura
 
 ---
 
-### 📚 Sobre os Projetos
-**EN** — These projects were created as learning exercises in Go. The goal was to explore **performance**, **concurrency**, and **web API design** with clear documentation and practical use cases.  
-**PT-BR** — Estes projetos foram criados como exercícios de aprendizado em Go, explorando **performance**, **concorrência** e **design de APIs web**, sempre com READMEs detalhados e exemplos reais.
+### GitHub stats
 
----
-
-### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jorgediasdsg&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🌐 Connect with Me  
+### Contato
+
 <p align="center">
-  <a href="https://linkedin.com/in/jorgediasdsg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="25" width="25" /></a>
-  <a href="https://twitter.com/jorgediasdsg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="25" width="25" /></a>
-  <a href="https://www.youtube.com/c/jorgediasdsg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="25" width="25" /></a>
+  <a href="https://www.linkedin.com/in/jorgediasdsg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="25" width="25" /></a>
 </p>
 
----
-
 <p align="center">
-  <em>“Building reliable software with simplicity, automation, and purpose.”</em><br>
-  <em>— Jorge Dias, 2025</em>
+  <em>Building reliable software with simplicity, automation, and purpose.</em>
 </p>
