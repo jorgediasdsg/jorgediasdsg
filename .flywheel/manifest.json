@@ -1,0 +1,19 @@
+{
+  "issue": "github:jorgediasdsg/jorgediasdsg#14",
+  "branch": "flywheel/github-jorgediasdsg-jorgediasdsg-14",
+  "scope": "README profissional com linha de evolução técnica",
+  "files_changed": [
+    "README.md",
+    "tests/test_profile_readme.py",
+    "docs/superpowers/plans/2026-10-18-carreira-linha-evolucao-tecnica.md",
+    ".flywheel/manifest.json",
+    ".flywheel/delivery-handoff.json"
+  ],
+  "tests": [
+    {
+      "command": "python3 -m unittest discover -s tests -v",
+      "status": "passed"
+    }
+  ],
+  "homologation_url": "https://github.com/jorgediasdsg/jorgediasdsg/blob/flywheel/github-jorgediasdsg-jorgediasdsg-14/README.md"
+}
