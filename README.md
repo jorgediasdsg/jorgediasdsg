@@ -31,6 +31,7 @@ Foco em construir aplicações e ambientes que sejam simples de entender, fácei
 ### Stack principal
 
 <p align="left">
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="32" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="32" height="32"/>
